@@ -67,7 +67,7 @@
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
-    "@netlify/eslint-config-node": "^3.3.0",
+    "@netlify/eslint-config-node": "^3.3.3",
     "@testing-library/cypress": "^8.0.1",
     "@types/jest": "^27.0.2",
     "@types/mocha": "^9.0.0",
